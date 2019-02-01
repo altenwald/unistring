@@ -6,3 +6,4 @@ deps
 *.dump
 ebin/*.*
 .rebar/
+_build/

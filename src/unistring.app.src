@@ -6,5 +6,10 @@
                   stdlib
                  ]},
   {registered, []},
-  {env, []}
+  {env, []},
+  {maintainers, ["Manuel Rubio"]},
+  {licenses, ["Public Domain"]},
+  {links, [
+    {"Github", "https://github.com/altenwald/unistring"}
+  ]}
  ]}.
